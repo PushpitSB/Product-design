@@ -1,0 +1,7 @@
+/Users/pushpitsingh/Desktop/product-service/src/main/java/com/techie/microservices/product/ProductServiceApplication.java
+/Users/pushpitsingh/Desktop/product-service/src/main/java/com/techie/microservices/product/controller/ProductController.java
+/Users/pushpitsingh/Desktop/product-service/src/main/java/com/techie/microservices/product/dto/ProductRequest.java
+/Users/pushpitsingh/Desktop/product-service/src/main/java/com/techie/microservices/product/dto/ProductResponse.java
+/Users/pushpitsingh/Desktop/product-service/src/main/java/com/techie/microservices/product/model/Product.java
+/Users/pushpitsingh/Desktop/product-service/src/main/java/com/techie/microservices/product/repository/ProductRepository.java
+/Users/pushpitsingh/Desktop/product-service/src/main/java/com/techie/microservices/product/service/ProductService.java
