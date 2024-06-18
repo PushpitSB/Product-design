@@ -1,0 +1,6 @@
+com/techie/microservices/order/dto/OrderRequest.class
+com/techie/microservices/order/OrderServiceApplication.class
+com/techie/microservices/order/models/Order.class
+com/techie/microservices/order/controllers/OrderController.class
+com/techie/microservices/order/services/OrderService.class
+com/techie/microservices/order/repository/OrderRepository.class
