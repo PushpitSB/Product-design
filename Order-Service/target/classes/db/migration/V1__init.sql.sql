@@ -5,6 +5,6 @@ CREATE TABLE `t_orders`
     `sku_code`  varchar(255),
     `price`    decimal(19, 2),
     `quantity` int(11),
-    'status' varchar(255) DEFAULT NULL,
+    `status` varchar(255) DEFAULT NULL,
     PRIMARY KEY (`id`)
 );

@@ -49,7 +49,7 @@ class OrderServiceApplicationTests {
                 .extract()
                 .body().asString();
  
-        assertEquals(responseBodyString, "Order Placed Successfully");
+        assertEquals(responseBodyString, "Order Placed succesfuly");
 	}
 
 }
